@@ -1,0 +1,2 @@
+class PopstsController < ApplicationController
+end
